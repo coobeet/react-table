@@ -2,7 +2,8 @@
   "compilerOptions": {
     "target": "ES2015",
     "module": "ES2015",
-    "jsx": "react-jsx"
+    "declaration": true,
+    "jsx": "react"
   },
   "include": ["**/*"]
 }
