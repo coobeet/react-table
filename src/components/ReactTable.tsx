@@ -1,5 +1,10 @@
 import * as React from 'react';
 
 export function ReactTable(): JSX.Element {
-  return <div>React Table</div>;
+  return (
+    <div>
+      <h1>Hello World</h1>
+      <div>React Table</div>
+    </div>
+  );
 }
