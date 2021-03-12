@@ -1,0 +1,17 @@
+{
+  "name": "@coobeet/react-table",
+  "version": "0.1.0",
+  "description": "React Table Component",
+  "main": "index.js",
+  "repository": "git@github.com:coobeet/react-table.git",
+  "author": "coobeet <coobeet@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^12.0.1",
+    "@commitlint/config-conventional": "^12.0.1",
+    "husky": "^5.1.3"
+  }
+}
