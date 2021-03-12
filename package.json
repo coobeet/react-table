@@ -4,6 +4,7 @@
   "description": "React Table Component",
   "main": "dist/coobeet-react-table.js",
   "module": "dist/coobeet-react-table.esm.js",
+  "types": "dist/index.d.ts",
   "repository": "git@github.com:coobeet/react-table.git",
   "author": "coobeet <coobeet@gmail.com>",
   "license": "MIT",
