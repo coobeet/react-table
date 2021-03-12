@@ -10,12 +10,16 @@
   "license": "MIT",
   "scripts": {
     "prepare": "husky install",
+    "prepublishOnly": "npm run build",
     "release": "standard-version",
     "watch": "rollup --config rollup.config.js --watch",
     "build": "rimraf dist/ && rollup --config rollup.config.js",
     "lint": "eslint . --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint . --ext .js,.ts,.jsx,.tsx --fix"
   },
+  "files": [
+    "dist"
+  ],
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.1"
   },
