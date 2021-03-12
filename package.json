@@ -7,11 +7,13 @@
   "author": "coobeet <coobeet@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "standard-version"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
     "@commitlint/config-conventional": "^12.0.1",
-    "husky": "^5.1.3"
+    "husky": "^5.1.3",
+    "standard-version": "^9.1.1"
   }
 }
