@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/coobeet/react-table/compare/v0.1.2...v0.1.3) (2021-03-12)
+
+
+### Bug Fixes
+
+* edit package.json ([a0de05e](https://github.com/coobeet/react-table/commit/a0de05ebc00e26c3c5b6ddf9daf2e9e4488bda62))
+
 ### [0.1.2](https://github.com/coobeet/react-table/compare/v0.1.1...v0.1.2) (2021-03-12)
 
 
